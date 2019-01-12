@@ -1,0 +1,30 @@
+{
+  "name": "message-anyone-proto_1",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://limitless-inlet-83703.herokuapp.com/",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "react-scripts": "0.9.5",
+    "redux": "^4.0.0",
+    "redux-saga": "^0.16.0",
+    "redux-socket.io": "^1.4.0",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1",
+    "styled-components": "^4.1.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "engines": {
+    "node": "11.4.0"
+  }
+}
